@@ -4,15 +4,15 @@ var emojiDictionary = {
   "🕴️": "Rude Boy",
   "🧗": "Climber",
   "🤺": "fencer",
-  "🙃": "sarcasm",
-  "🥰": "In love face",
-  "😐": "neutral",
-  "🤥": "lying face",
-  "😌": "pleased",
-  "😷": "COVID face",
-  "🥳": "partying face",
-  "😯": "surprised",
-  "😜": "crazy"
+  "⛷️": "skier",
+  "🏂": "snowboarder",
+  "🏌️": "golf player",
+  "🚴‍♀️": "cyclig",
+  "🤼": "wrestling",
+  "🤸‍♀️": "women cartwheeling",
+  "🧘": "person in lotus position",
+  "🎗️": "remainder ribbon",
+  "🎫": "ticket"
 };
 var emojisWeKnow = Object.keys(emojiDictionary);
 
