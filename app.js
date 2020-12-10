@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import "./styles.css";
 var emojiDictionary = {
-  "😀": "Happy Face",
-  "🤣": "ROFL",
-  "😂": "face with tears of joy",
+  "🕴️": "Rude Boy",
+  "🧗": "Climber",
+  "🤺": "fencer",
   "🙃": "sarcasm",
   "🥰": "In love face",
   "😐": "neutral",
